@@ -1,0 +1,491 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\input{files/styles/pravnickytext/template.tex}
+\bibliography{literature/bibliography}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language czech
+\language_package babel
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref true
+\pdf_author "Jakub Michálek"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry false
+\use_amsmath 0
+\use_esint 0
+\use_mhchem 0
+\use_mathdots 0
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.5cm
+\topmargin 3cm
+\rightmargin 4.5cm
+\bottommargin 3cm
+\secnumdepth 3
+\tocdepth 2
+\paragraph_separation skip
+\defskip medskip
+\quotes_language german
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\bullet 0 0 0 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Vypořádání jmění
+\end_layout
+
+\begin_layout Author
+Mgr.
+ Bc.
+ Jakub Michálek
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Absolvent Právnické fakulty UK a Matematicko-fyzikální fakulty UK.
+ Pracuje jako advokátní koncipient ve společnosti Řehák & Partneři, k.
+\begin_inset space \thinspace{}
+\end_inset
+
+s., Praha.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+
+\end_layout
+
+\begin_layout Abstract
+Tento text se zabývá 
+\series bold
+jměním
+\series default
+.
+ Celá řada právních institutů má společné kořeny, které se týkají právě
+ otázky jmění, nástupnictví ohledně jmění, jeho vypořádání a likvidace.
+ Mluvíme tak často o vypořádání společného jmění manželů, dědění po smrti
+ zůstavitele, vyčlenění majetku do svěřenského fondu, likvidaci právnické
+ osoby nebo pozůstalosti nebo insolvenčním řízení u úpadce.
+ Všechny tyto instituty mají zvláštní úpravu, která se s přijetím rekodifikace
+ značně rozšířila.
+ Pro udržení myšlenkové jednoty právního řádu a jeho konzistence je vhodné
+ zamyslet nad společnou podstatou uvedených institutů.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Právní stav zpracování publikace
+\end_layout
+
+\begin_layout Standard
+Text je zpracován k právnímu stavu ke dni 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+today{}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Seznam zkratek použitých předpisů
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+InsZ
+\series default
+ zákon č.
+ 182/2006 Sb., insolvenční zákon
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+NOZ 
+\series default
+zákon č.
+ 89/2012 Sb., občanský zákoník
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+ZOK
+\series default
+ zákon č.
+ 90/2012 Sb., o obchodních korporacích
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+ZŘS
+\series default
+ zákon č.
+ 292/2013 Sb., o zvláštních řízeních soudních
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+V tomto textu se zabýváme pojmem jmění a jeho přechodem na jinou osobu.
+ Vycházíme přitom z platné právní úpravy obsažené v novém občanském zákoníku,
+ resp.
+ v dalších zvláštních zákonech.
+ Přitom se však neomezujeme na platnou úpravu, nýbrž hledáme principy, které
+ jsou různým způsobům přecházení jmění společné.
+\end_layout
+
+\begin_layout Section
+Jmění
+\end_layout
+
+\begin_layout Standard
+Jmění osoby tvoří 
+\emph on
+souhrn
+\emph default
+ jejího majetku a jejích dluhů (§ 495 NOZ).
+ 
+\end_layout
+
+\begin_layout Standard
+Uvedené vymezení jmění platí obdobně i pro jiné jmění, než je jmění osoby.
+ Zřetelně je vymezeno rovněž společné jmění manželů (§ 708 a násl.
+ NOZ) nebo jmění bez vlastníka ve svěřenském fondu (§ 1448 a násl.
+ NOZ).
+ Odděleným jměním je také obchodní závod (§ 502 NOZ) nebo pozůstalost, kterou
+ po své smrti zanechá zůstavitel (§ 1475 odst.
+ 2 NOZ, § 110 a násl.
+ o projednání pozůstalosti).
+\end_layout
+
+\begin_layout Standard
+Majetkovou složkou jmění je u právnické osoby zrušené s likvidací majetku
+ její likvidační podstata (§ 187 odst.
+ 1 NOZ) a u úpadce v insolvenčním řízení majetková podstata (§ 205 a násl.
+ InsZ).
+ Pokud účast společníka na obchodní společnosti zaniká bez právního nástupce,
+ vzniká mu nárok na vydání části jmění obchodní společnosti v penězích,
+ který se nazývá vypořádací podíl (§
+\begin_inset space ~
+\end_inset
+
+36 ZOK).
+\end_layout
+
+\begin_layout Section
+Nabytí jmění právním nástupcem
+\end_layout
+
+\begin_layout Standard
+Jmění nabývá právní nástupce, pokud vstupuje do všech práv a povinností
+ ohledně jmění právě jedna jiná osobu.
+ Jde o jmění, jehož vlastník v některých případech v právním smyslu zaniká,
+ nebo jmění, které žádného vlastníka nemá (např.
+ jmění ve svěřenském fondu).
+ Toto jmění přechází na jinou osobu (např.
+ na obmyšleného podle §
+\begin_inset space ~
+\end_inset
+
+1472 NOZ) nebo do správy jiné osoby (jiného svěřenského fondu).
+ 
+\end_layout
+
+\begin_layout Standard
+Pokud původní vlastník jmění zanikne nebo pokud zanikne správa ke jmění
+ bez vlastnictví (svěřenský fond) a vzhledem k tomuto jmění existuje právě
+ jeden právní nástupce, přechází jmění na tohoto právního nástupce (např.
+ přeměněnou právnickou osobu, dědice apod.).
+ 
+\end_layout
+
+\begin_layout Section
+Vypořádání jmění
+\end_layout
+
+\begin_layout Standard
+Pokud nepřichází ve vztahu k celému jmění právní nástupnictví jedné osoby,
+ musí se jmění určitým způsobem rozdělit.
+ Přestává být souhrnem ve smyslu původní definice a tedy zaniká.
+ Pak hovoříme o vypořádání jmění (např.
+ mezi manželi, mezi společníky akciové společnosti, mezi více dědici, mezi
+ věřiteli úpadce apod.).
+ 
+\end_layout
+
+\begin_layout Standard
+Lze pozorovat určitá základní pravidla ohledně toho, jak se jmění vypořádává:
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Správce jmění
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Na začátku vypořádání jmění je třeba ustanovit správce jmění do okamžiku,
+ než bude jmění plně vypořádáno (např.
+ pořízením pro případ smrti, jmenováním zanikající právnickou osobou apod.).
+ Správce nakládá s majetkem tak, aby pokud možno cenu jmění zachoval a rozmnožil.
+ Náklady vypořádání uspokojuje přednostně z majetkové podstaty, pokud možno
+ z části, která neslouží k oddělenému uspokojení.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Vypořádání jmění
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Vypořádání jmění se provádí, pokud majetková podstata postačuje aspoň k
+ úhradě nákladů vypořádání jmění.
+ Při vypořádávání jmění správce jmění pořídí soupis jmění (majetek a dluhy),
+ přičemž začátek sepisování jmění veřejně oznámí.
+ Správce nepřihlíží k fiktivním dluhům (dluhy bez odpovídajícího protiplnění,
+ dluhy z darovací smlouvy, smluvním pokutám, uznání fiktivních dluhů apod.),
+ naopak se snaží o zvýšení ceny majetkové podstaty (uplatňuje odpovídající
+ práva na náhradu škody, práva domáhat se relativní neúčinnosti jednání,
+ které neoprávněně snižuje hodnotu jmění apod.) 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Soupis jmění
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Soupis jmění se při jeho vypořádání pořizuje tak, že správce vyzve všechny
+ věřitele k
+\begin_inset space ~
+\end_inset
+
+přihlášení dluhů váznoucích na vypořádávaném jmění, zjistí z
+\begin_inset space ~
+\end_inset
+
+vlastní iniciativy majetkovou podstatu, vypořádávané jmění úředně sepíše,
+ ocení a zjistí, zda je předlužené.
+ Po pořízení soupisu jmění se k
+\begin_inset space ~
+\end_inset
+
+němu mohou účastníci řízení vyjádřit, popřít dluhy váznoucí na vypořádávaném
+ jmění, tvrdit existenci nového majetku apod.
+ Po vyjádření mohou sporné otázky ohledně vypořádání jmění uplatnit určovací
+ žalobou (incidenční spory).
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Vypořádání předluženého jmění
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Pokud je vypořádávané jmění předlužené, nabídne správce věřitelům, aby majetek
+ ve vypořádávaném jmění převzali na úhradu dluhů v poměru, který si dohodnou.
+ Věřitelé se stávají právními nástupci původního vlastníka ve vztahu k převzatém
+u jmění.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Rozdělení mezi právní nástupce
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Pokud není jmění předlužené nebo je sice předlužené, ale věřitelé souhlasí
+ s jeho rozdělením mezi více právních nástupců, může být jmění bez dalšího
+ rozděleno mezi více právních nástupců (například více právnických osob,
+ rozvedené manžele).
+ Pokud má být jmění rozděleno mezi více právních nástupců, rozdělí se sepsané
+ jmění mezi jednotlivé právní nástupce v jimi dohodnutém poměru, aniž by
+ byli zkráceni věřitelé.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Oddělené uspokojení
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Přednostně se odděleně uspokojí dluhy zajištěné majetkem z jmění podle zvláštníc
+h ustanovení (např.
+ prodej nemovitosti v dražbě k uspokojení zástavních věřitelů, uspokojení
+ odkazovníka vydáním odkazovaného majetku).
+ V další skupině se také uspokojí nezbytné výživné (původního vlastníka
+ jmění nebo osob na něm závislých) a jiné podobné dluhy, kde to slušnost
+ vyžaduje (např.
+ dluhy vůči zaměstnancům podniku).
+ Plným uspokojením zaniká účast v řízení.
+ Neuspokojená část dluhu přechází do dalšího řízení.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Likvidace
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Majetek se likviduje, pokud jmění nepřešlo při předchozím vypořádání na
+ právního nástupce.
+ Likvidací se sepsaný majetek převádí na peněžitou hodnotu, bankovní účet
+ nebo jinou vysoce likvidní majetkovou hodnotu.
+ Je tedy správné mluvit o likvidaci majetku, nikoliv o likvidaci právnické
+ osoby, jak se někdy děje.
+ Dluhy, které nebyly uspokojeny odděleně, se uspokojují z likvidovaného
+ majetku poměrně.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Likvidační zůstatek
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Zbude-li plném uspokojení dluhů likvidační zůstatek, naloží se s ním podle
+ vůle dosavadního vlastníka vypořádávaného jmění, případně nejvěrnějším
+ možným způsosem (tj.
+ např.
+ podle stanov zanikající právnické osoby, podle pořízení pro případ smrti
+ nebo podle statutu svěřenského fondu).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "literature/bibliography"
+options "jurabib"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
