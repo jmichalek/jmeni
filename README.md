@@ -1,7 +1,7 @@
 Vypořádání jmění
 ================
 
-Abstrakt Tento text se zabývá jměním. Celá řada právních institutů má společné kořeny, 
+Tento text se zabývá **jměním**. Celá řada právních institutů má společné kořeny, 
 které se týkají právě otázky jmění, nástupnictví ohledně jmění, jeho vypořádání a likvidace. 
 Mluvíme tak často o vypořádání společného jmění manželů, dědění po smrti zůstavitele, 
 vyčlenění majetku do svěřenského fondu, likvidaci právnické osoby nebo pozůstalosti nebo 
